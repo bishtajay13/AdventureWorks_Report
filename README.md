@@ -7,11 +7,11 @@ Adventure Works Cycles is a global manufacturing company that designs and delive
 ## **Contents**
 
 1. Connect and Transform the Raw Data:
->> *Extract data from various sources (e.g., databases, CSV files).
+>> * Extract data from various sources (e.g., databases, CSV files).
 >> 
->> *Clean and transform the data using Power Query Editor.
+>> * Clean and transform the data using Power Query Editor.
 >> 
->> *Load the data into Power BI.
+>> * Load the data into Power BI.
 
 ![alt text](https://github.com/bishtajay13/AdventureWorks_Report/blob/main/Data%20Model.png?raw=true)
 
